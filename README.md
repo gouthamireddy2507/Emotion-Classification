@@ -18,7 +18,4 @@ Two possible choices are:
   
 **Notes**
 
-- The data set is not balanced and has 6 classes so you will have to use a multiclass classifier. Use
-the same classifier for all representations.
-- Pick the representation from assignment 1 that worked best for you and run it on this data set
-and use it as a comparison representation for the representations in this assignment.
+- The data set is not balanced and has 6 classes so you will have to use a multiclass classifier.
